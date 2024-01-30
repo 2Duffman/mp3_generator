@@ -1,0 +1,411 @@
+Afghanistan
+Ägypten
+Albanien
+Algerien
+Andorra
+Angola
+Antigua und Barbuda
+Äquatorialguinea
+Argentinien
+Armenien
+Aserbaidschan
+Äthiopien
+Australien
+Bahamas
+Bahrain
+Bangladesch
+Barbados
+Belgien
+Belize
+Benin
+Bhutan
+Bolivien
+Bosnien und Herzegowina
+Botswana (Botsuana)
+Brasilien
+Brunei
+Bulgarien
+Burkina Faso
+Burundi
+Chile
+Taiwan (Republik China)
+China (Volksrepublik China)
+Costa Rica
+Dänemark
+Deutschland
+Dominica
+Dominikanische Republik
+Dschibuti
+Ecuador
+Elfenbeinküste (Côte d'Ivoire)
+El Salvador
+Eritrea
+Estland
+Fidschi
+Finnland
+Frankreich
+Gabun
+Gambia
+Georgien
+Ghana
+Grenada
+Griechenland
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Indien
+Indonesien
+Irak
+Iran
+Irland
+Island
+Israel
+Italien
+Jamaika
+Japan
+Jemen
+Jordanien
+Kambodscha
+Kamerun
+Kanada
+Kap Verde
+Kasachstan
+Katar
+Kenia
+Kirgisistan
+Kiribati
+Kolumbien
+Komoren
+Kongo, Demokratische Republik
+Kongo, Republik
+Nordkorea (Demokratische Volksrepublik Korea)
+Südkorea (Republik Korea)
+Kosovo
+Kroatien
+Kuba
+Kuwait
+Laos
+Lesotho
+Lettland
+Libanon
+Liberia
+Libyen
+Liechtenstein
+Litauen
+Luxemburg
+Madagaskar
+Malawi
+Malaysia
+Malediven
+Mali
+Malta
+Marokko
+Marshallinseln
+Mauretanien
+Mauritius
+Mazedonien
+Mexiko
+Mikronesien, Föderierte Staaten von
+Moldau (Moldawien)
+Monaco
+Mongolei
+Montenegro
+Mosambik
+Myanmar (Birma, Burma)
+Namibia
+Nauru
+Nepal
+Neuseeland
+Nicaragua
+Niederlande
+Niger
+Nigeria
+Norwegen
+Oman
+Österreich
+Timor-Leste (Osttimor)
+Pakistan
+Palau
+Panama
+Papua-Neuguinea
+Paraguay
+Peru
+Philippinen
+Polen
+Portugal
+Ruanda
+Rumänien
+Russland
+Salomonen
+Sambia
+Samoa
+San Marino
+São Tomé und Príncipe
+Saudi-Arabien
+Schweden
+Schweiz
+Senegal
+Serbien
+Seychellen
+Sierra Leone
+Simbabwe
+Singapur
+Slowakei
+Slowenien
+Somalia
+Spanien
+Sri Lanka
+St. Kitts und Nevis
+St. Lucia
+St. Vincent und die Grenadinen
+Südafrika
+Sudan
+Suriname
+Eswatini <i>(bis 2018: Swasiland)</i>
+Syrien
+Tadschikistan
+Tansania
+Thailand
+Togo
+Tonga
+Trinidad und Tobago
+Tschad
+Tschechien
+Tunesien
+Türkei
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+Ungarn
+Uruguay
+Usbekistan
+Vanuatu
+Vatikanstadt
+Venezuela
+Vereinigte Arabische Emirate
+Vereinigtes Königreich Großbritannien<br />und Nordirland
+Vereinigte Staaten von Amerika
+Vietnam
+Weißrussland (Belarus)
+Zentralafrikanische Republik
+Zypern
+Aargau
+Appenzell Ausserrhoden
+Appenzell Innerrhoden
+Basel-Landschaft
+Basel-Stadt
+Bern
+Freiburg (Fribourg)
+Genf (Genève)
+Glarus
+Graubünden
+Jura
+Luzern
+Neuenburg (Neuchâtel)
+Nidwalden
+Obwalden
+Schaffhausen
+Schwyz
+Solothurn
+St. Gallen
+Tessin (Ticino)
+Thurgau
+Uri
+Waadt (Vaud)
+Wallis (Valais)
+Zug
+Zürich
+Alabama
+Alaska
+Arizona
+Arkansas
+Kalifornien
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Baden-Württemberg
+Bayern
+Berlin
+Brandenburg
+Bremen
+Hamburg
+Hessen
+Mecklenburg-Vorpommern
+Niedersachsen
+Nordrhein-Westfalen
+Rheinland-Pfalz
+Saarland
+Sachsen
+Sachsen-Anhalt
+Schleswig-Holstein
+Thüringen
+Burgenland
+Kärnten
+Niederösterreich
+Oberösterreich
+Salzburg
+Steiermark
+Tirol
+Vorarlberg
+Wien
+Demokratische Arabische Republik Sahara<br />(Westsahara, größtenteils von Marokko annektiert)
+Saint-Martin
+Saint-Barthélemy (St. Barts)
+Wallis und Futuna
+Französisch-Guyana
+Guadeloupe
+Martinique
+La Réunion
+Mayotte
+Saint-Pierre und Miquelon
+Französisch-Polynesien
+Neukaledonien
+Südgeorgien und die Südlichen Sandwichinseln
+Anguilla
+Bermuda
+Britische Jungferninseln
+Falklandinseln
+Gibraltar
+Kaimaninseln (Cayman Islands)
+Montserrat
+Pitcairninseln
+St. Helena, Ascension und Tristan da Cunha
+Turks- und Caicosinseln
+Jersey (Bailiwick of Jersey)
+Guernsey (Bailiwick of Guernsey)
+Isle of Man
+Puerto Rico
+Amerikanische Jungferninseln
+Guam
+Nördliche Marianen
+Amerikanisch-Samoa
+Aruba
+Curaçao
+Sint Maarten
+Bonaire
+Sint Eustatius
+Saba
+Norfolkinsel (Territory of Norfolk Island)
+Western Australia
+Queensland
+South Australia
+New South Wales
+Tasmanien
+Victoria
+Australian Capital Territory
+Northern Territory
+Weihnachtsinsel (Territory of Christmas Island)
+Kokosinseln/Keelinginseln (Territory of the Cocos (Keeling) Islands)
+Azoren
+Madeira
+Kanarische Inseln
+Tokelau
+Cookinseln
+Niue
+Grönland
+Färöer
+Spitzbergen (Svalbard)
+Wales
+Schottland
+England
+Nordirland
+Südsudan
+Anhui (安徽)
+Fujian (福建)
+Gansu (甘肃)
+Guangdong (广东)
+Guizhou (贵州)
+Hainan (海南)
+Hebei (河北)
+Heilongjiang (黑龙江)
+Henan (河南)
+Hubei (湖北)
+Hunan (湖南)
+Jiangsu (江苏)
+Jiangxi (江西)
+Jilin (吉林)
+Liaoning (辽宁)
+Qinghai (青海)
+Shaanxi (陕西)
+Shandong (山东)
+Shanxi (山西)
+Sichuan (四川)
+Yunnan (云南)
+Zhejiang (浙江)
+Guangxi (广西)
+Innere Mongolei (内蒙古 Nei Menggu)
+Ningxia (宁夏)
+Xinjiang (新疆)
+Tibet (西藏 Xizang)
+Peking (北京 Beijing)
+Chongqing (重庆)
+Shanghai (上海)
+Tianjin (天津)
+Hongkong (香港 Xianggang)
+Macao (澳门 Aomen)
+Abchasien (völkerrechtlich Teil Georgiens, de facto unabhängig)
+Südossetien (völkerrechtlich Teil Georgiens, de facto unabhängig)
+Transnistrien (völkerrechtlich Teil Moldawiens, de facto unabhängig)
+Bergkarabach (Nagorno-Karabakh; völkerrechtlich Teil Aserbaidschans, de facto unabhängig)
+Türkische Republik Nordzypern (völkerrechtlich Teil Zyperns, de facto unabhängig)
+Somaliland (völkerrechtlich Teil Somalias, de facto unabhängig)
+Palästina
+Antarktika
+Osterinsel (Rapa Nui)
+Galápagos-Inseln
+Chagos-Archipel (British Indian Ocean Territory)
+Juan-Fernández-Inseln
+Fernando de Noronha
+Kerguelen
+Sokotra
+Navassa
+Bouvetinsel
+Jan Mayen
+Ceuta
+Melilla

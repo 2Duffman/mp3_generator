@@ -1,0 +1,411 @@
+Kabul
+Kairo
+Tirana
+Algier
+Andorra la Vella
+Luanda
+St. John’s
+Malabo
+Buenos Aires
+Jerewan
+Baku
+Addis Abeba
+Canberra
+Nassau
+Manama
+Dhaka
+Bridgetown
+Brüssel
+Belmopan
+Porto Novo<br>(Regierungssitz: Cotonou)
+Thimphu
+Sucre<br />(Regierungssitz: La Paz)
+Sarajevo
+Gaborone
+Brasília
+Bandar Seri Begawan
+Sofia
+Ouagadougou
+Gitega <i>(bis 2019: Bujumbura)</i>
+Santiago de Chile<br />(Parlamentssitz: Valparaíso)
+Taipeh
+Peking
+San José
+Kopenhagen
+Berlin
+Roseau
+Santo Domingo
+Dschibuti
+Quito
+Yamoussoukro<br>(Regierungssitz: Abidjan)
+San Salvador
+Asmara
+Tallinn (Reval)
+Suva (auf Viti Levu)
+Helsinki
+Paris
+Libreville
+Banjul
+Tiflis
+Accra
+St. George’s
+Athen
+Guatemala-Stadt
+Conakry
+Bissau
+Georgetown
+Port-au-Prince
+Tegucigalpa
+Neu-Delhi
+Jakarta
+Bagdad
+Teheran
+Dublin
+Reykjavík
+Jerusalem
+Rom
+Kingston
+Tokio
+Sanaa
+Amman
+Phnom Penh
+Jaunde (Yaoundé)
+Ottawa
+Praia (auf Santiago)
+Astana&nbsp;<i>(Name 2019-2022: Nur-Sultan)</i>
+Doha
+Nairobi
+Bischkek
+South Tarawa
+Bogotá
+Moroni
+Kinshasa
+Brazzaville
+Pjöngjang
+Seoul
+Priština
+Zagreb (Agram)
+Havanna
+Kuwait-Stadt
+Vientiane
+Maseru
+Riga
+Beirut
+Monrovia
+Tripolis
+Vaduz
+Vilnius (dt.: Wilna)
+Luxemburg
+Antananarivo
+Lilongwe
+Kuala Lumpur<br>(Regierungssitz: Putrajaya)
+Malé
+Bamako
+Valletta
+Rabat
+Majuro
+Nouakchott
+Port Louis
+Skopje
+Mexiko-Stadt
+Palikir (auf&nbsp;Pohnpei)
+Chișinău
+Monaco
+Ulaanbaatar (Ulan Bator)
+Podgorica
+Maputo
+Naypyidaw <i>(bis 2005: Rangun bzw. Yangon)</i>
+Windhoek
+offiziell: keine<br />de facto: Yaren
+Kathmandu
+Wellington
+Managua
+Amsterdam<br>(Regierungssitz: Den Haag)
+Niamey
+Abuja
+Oslo
+Maskat
+Wien
+Dili
+Islamabad
+Ngerulmud <i>(bis 2006: Koror)</i>
+Panama-Stadt
+Port Moresby
+Asunción
+Lima
+Manila
+Warschau
+Lissabon
+Kigali
+Bukarest
+Moskau
+Honiara (auf Guadalcanal)
+Lusaka
+Apia
+San Marino
+São Tomé
+Riad
+Stockholm
+offiziell: keine<br />de facto: Bern
+Dakar
+Belgrad
+Victoria
+Freetown
+Harare
+Singapur
+Bratislava (Pressburg)
+Ljubljana (dt.: Laibach)
+Mogadischu
+Madrid
+de facto: Colombo<br>de jure: Sri Jayawardenapura Kotte
+Basseterre
+Castries
+Kingstown
+Pretoria<br />(Parlamentssitz: Kapstadt)
+Khartum
+Paramaribo
+Mbabane&nbsp;<div>(Regierungssitz: Lobamba)</div>
+Damaskus
+Duschanbe
+Dodoma<br />(Regierungssitz: Daressalam)
+Bangkok
+Lomé
+Nuku'alofa
+Port-of-Spain
+N’Djamena
+Prag
+Tunis
+Ankara
+Aschgabat
+Funafuti
+Kampala
+Kiew
+Budapest
+Montevideo
+Taschkent
+Port Vila
+Vatikanstadt
+Caracas
+Abu Dhabi
+London
+Washington, D.C.
+Hanoi
+Minsk
+Bangui
+Nikosia (Lefkosía)
+Aarau
+Herisau
+Appenzell
+Liestal
+Basel
+Bern
+Freiburg (Fribourg)
+Genf (Genève)
+Glarus
+Chur
+Delsberg (Delémont)
+Luzern
+Neuenburg (Neuchâtel)
+Stans
+Sarnen
+Schaffhausen
+Schwyz
+Solothurn
+St. Gallen
+Bellinzona
+Frauenfeld
+Altdorf
+Lausanne
+Sitten (Sion)
+Zug
+Zürich
+Montgomery
+Juneau
+Phoenix
+Little Rock
+Sacramento
+Denver
+Hartford
+Dover
+Tallahassee
+Atlanta
+Honolulu
+Boise
+Springfield
+Indianapolis
+Des Moines
+Topeka
+Frankfort
+Baton Rouge
+Augusta
+Annapolis
+Boston
+Lansing
+Saint Paul
+Jackson
+Jefferson City
+Helena
+Lincoln
+Carson City
+Concord
+Trenton
+Santa Fe
+Albany
+Raleigh
+Bismarck
+Columbus
+Oklahoma City
+Salem
+Harrisburg
+Providence
+Columbia
+Pierre
+Nashville
+Austin
+Salt Lake City
+Montpelier
+Richmond
+Olympia
+Charleston
+Madison
+Cheyenne
+Stuttgart
+München
+Berlin
+Potsdam
+Bremen
+Hamburg
+Wiesbaden
+Schwerin
+Hannover
+Düsseldorf
+Mainz
+Saarbrücken
+Dresden
+Magdeburg
+Kiel
+Erfurt
+Eisenstadt
+Klagenfurt am Wörthersee
+St. Pölten
+Linz
+Salzburg
+Graz
+Innsbruck
+Bregenz
+Wien
+offiziell: El Aaiún<br>de facto: Bir Lehlu
+Marigot
+Gustavia
+Mata-Utu
+Cayenne
+Basse-Terre
+Fort-de-France
+Saint-Denis
+Mamoudzou
+Saint-Pierre
+Papeete (auf Tahiti)
+Nouméa
+Grytviken
+The Valley
+Hamilton
+Road Town
+Stanley
+Gibraltar
+George Town (auf Grand Cayman)
+Plymouth (verlassen), <br />Brades (de facto)
+Adamstown
+Jamestown (St. Helena und gesamtes Gebiet)<br />Georgetown (Ascension)<br />Edinburgh of the Seven Seas (Tristan da Cunha)
+Cockburn Town (auf Grand Turk)
+Saint Helier
+Saint Peter Port
+Douglas
+San Juan
+Charlotte Amalie
+Hagåtña
+Saipan
+Pago Pago
+Oranjestad
+Willemstad
+Philipsburg
+Kralendijk
+Oranjestad
+The Bottom
+Kingston
+Perth
+Brisbane
+Adelaide
+Sydney
+Hobart
+Melbourne
+Canberra
+Darwin
+Flying Fish Cove
+West Island
+Ponta Delgada (auf São Miguel)
+Funchal
+Santa Cruz de Tenerife<br />und Las Palmas de Gran Canaria
+keine, jedes Atoll (Atafu, Fakaofo und Nukunonu) besitzt ein eigenes adminstratives Zentrum
+Avarua (auf Rarotonga)
+Alofi
+Nuuk (dän.: Godthåb)
+Tórshavn
+Longyearbyen
+Cardiff
+Edinburgh
+London
+Belfast
+Juba
+Hefei
+Fuzhou
+Lanzhou
+Guangzhou
+Guiyang
+Haikou
+Shijiazhuang
+Harbin
+Zhengzhou
+Wuhan
+Changsha
+Nanjing
+Nanchang
+Changchun
+Shenyang
+Xining
+Xi'an
+Jinan
+Taiyuan
+Chengdu
+Kunming
+Hangzhou
+Nanning
+Hohhot
+Yinchuan
+Ürümqi
+Lhasa
+Peking
+Chongqing
+Shanghai
+Tianjin
+Hongkong
+Macao
+Sochumi
+Zchinwali
+Tiraspol
+Stepanakert
+Lefkoşa (Nikosia)
+Hargeysa
+offiziell: Ostjerusalem<br>de facto: Gaza und Ramallah
+keine
+Hanga Roa
+Puerto Baquerizo Moreno (auf&nbsp;San Cristóbal)
+keine (Hauptinsel: Diego Garcia)
+San Juan Bautista (auf Robinsón Crusoe)
+Vila dos Remédios
+Port-aux-Français (Forschungsstation)
+Hadibu
+Lulu Town (verlassen)
+keine Hauptstadt (unbewohnt)
+Olonkinbyen
+Ceuta
+Melilla

@@ -1,0 +1,411 @@
+Kabul
+Kairo
+Tirana
+Algier
+Andorra la Vella
+Luanda
+St. John’s
+Malabo
+Buenos Aires
+Jerewan
+Baku
+Addis Abeba
+Canberra
+Nassau
+Manama
+Dhaka
+Bridgetown
+Brüssel
+Belmopan
+Porto Novo
+Thimphu
+Sucre
+Sarajevo
+Gaborone
+Brasília
+Bandar Seri Begawan
+Sofia
+Ouagadougou
+Gitega 
+Santiago de Chile
+Taipeh
+Peking
+San José
+Kopenhagen
+Berlin
+Roseau
+Santo Domingo
+Dschibuti
+Quito
+Yamoussoukro
+San Salvador
+Asmara
+Tallinn 
+Suva 
+Helsinki
+Paris
+Libreville
+Banjul
+Tiflis
+Accra
+St. George’s
+Athen
+Guatemala-Stadt
+Conakry
+Bissau
+Georgetown
+Port-au-Prince
+Tegucigalpa
+Neu-Delhi
+Jakarta
+Bagdad
+Teheran
+Dublin
+Reykjavík
+Jerusalem
+Rom
+Kingston
+Tokio
+Sanaa
+Amman
+Phnom Penh
+Jaunde 
+Ottawa
+Praia 
+Astana
+Doha
+Nairobi
+Bischkek
+South Tarawa
+Bogotá
+Moroni
+Kinshasa
+Brazzaville
+Pjöngjang
+Seoul
+Priština
+Zagreb 
+Havanna
+Kuwait-Stadt
+Vientiane
+Maseru
+Riga
+Beirut
+Monrovia
+Tripolis
+Vaduz
+Vilnius 
+Luxemburg
+Antananarivo
+Lilongwe
+Kuala Lumpur
+Malé
+Bamako
+Valletta
+Rabat
+Majuro
+Nouakchott
+Port Louis
+Skopje
+Mexiko-Stadt
+Palikir 
+Chișinău
+Monaco
+Ulaanbaatar 
+Podgorica
+Maputo
+Naypyidaw 
+Windhoek
+Yaren
+Kathmandu
+Wellington
+Managua
+Amsterdam
+Niamey
+Abuja
+Oslo
+Maskat
+Wien
+Dili
+Islamabad
+Ngerulmud 
+Panama-Stadt
+Port Moresby
+Asunción
+Lima
+Manila
+Warschau
+Lissabon
+Kigali
+Bukarest
+Moskau
+Honiara 
+Lusaka
+Apia
+San Marino
+São Tomé
+Riad
+Stockholm
+Bern
+Dakar
+Belgrad
+Victoria
+Freetown
+Harare
+Singapur
+Bratislava 
+Ljubljana 
+Mogadischu
+Madrid
+Colombo
+Basseterre
+Castries
+Kingstown
+Pretoria
+Khartum
+Paramaribo
+Mbabane
+Damaskus
+Duschanbe
+Dodoma
+Bangkok
+Lomé
+Nuku'alofa
+Port-of-Spain
+N’Djamena
+Prag
+Tunis
+Ankara
+Aschgabat
+Funafuti
+Kampala
+Kiew
+Budapest
+Montevideo
+Taschkent
+Port Vila
+Vatikanstadt
+Caracas
+Abu Dhabi
+London
+Washington D.C.
+Hanoi
+Minsk
+Bangui
+Nikosia 
+Aarau
+Herisau
+Appenzell
+Liestal
+Basel
+Bern
+Freiburg 
+Genf 
+Glarus
+Chur
+Delsberg 
+Luzern
+Neuenburg 
+Stans
+Sarnen
+Schaffhausen
+Schwyz
+Solothurn
+St. Gallen
+Bellinzona
+Frauenfeld
+Altdorf
+Lausanne
+Sitten 
+Zug
+Zürich
+Montgomery
+Juneau
+Phoenix
+Little Rock
+Sacramento
+Denver
+Hartford
+Dover
+Tallahassee
+Atlanta
+Honolulu
+Boise
+Springfield
+Indianapolis
+Des Moines
+Topeka
+Frankfort
+Baton Rouge
+Augusta
+Annapolis
+Boston
+Lansing
+Saint Paul
+Jackson
+Jefferson City
+Helena
+Lincoln
+Carson City
+Concord
+Trenton
+Santa Fe
+Albany
+Raleigh
+Bismarck
+Columbus
+Oklahoma City
+Salem
+Harrisburg
+Providence
+Columbia
+Pierre
+Nashville
+Austin
+Salt Lake City
+Montpelier
+Richmond
+Olympia
+Charleston
+Madison
+Cheyenne
+Stuttgart
+München
+Berlin
+Potsdam
+Bremen
+Hamburg
+Wiesbaden
+Schwerin
+Hannover
+Düsseldorf
+Mainz
+Saarbrücken
+Dresden
+Magdeburg
+Kiel
+Erfurt
+Eisenstadt
+Klagenfurt am Wörthersee
+St. Pölten
+Linz
+Salzburg
+Graz
+Innsbruck
+Bregenz
+Wien
+El Aaiún
+Marigot
+Gustavia
+Mata-Utu
+Cayenne
+Basse-Terre
+Fort-de-France
+Saint-Denis
+Mamoudzou
+Saint-Pierre
+Papeete 
+Nouméa
+Grytviken
+The Valley
+Hamilton
+Road Town
+Stanley
+Gibraltar
+George Town 
+Plymouth 
+Adamstown
+Jamestown 
+Cockburn Town 
+Saint Helier
+Saint Peter Port
+Douglas
+San Juan
+Charlotte Amalie
+Hagåtña
+Saipan
+Pago Pago
+Oranjestad
+Willemstad
+Philipsburg
+Kralendijk
+Oranjestad
+The Bottom
+Kingston
+Perth
+Brisbane
+Adelaide
+Sydney
+Hobart
+Melbourne
+Canberra
+Darwin
+Flying Fish Cove
+West Island
+Ponta Delgada 
+Funchal
+Santa Cruz de Tenerife
+keine
+Avarua 
+Alofi
+Nuuk 
+Tórshavn
+Longyearbyen
+Cardiff
+Edinburgh
+London
+Belfast
+Juba
+Hefei
+Fuzhou
+Lanzhou
+Guangzhou
+Guiyang
+Haikou
+Shijiazhuang
+Harbin
+Zhengzhou
+Wuhan
+Changsha
+Nanjing
+Nanchang
+Changchun
+Shenyang
+Xining
+Xi'an
+Jinan
+Taiyuan
+Chengdu
+Kunming
+Hangzhou
+Nanning
+Hohhot
+Yinchuan
+Ürümqi
+Lhasa
+Peking
+Chongqing
+Shanghai
+Tianjin
+Hongkong
+Macao
+Sochumi
+Zchinwali
+Tiraspol
+Stepanakert
+Lefkoşa 
+Hargeysa
+Ostjerusalem
+keine
+Hanga Roa
+Puerto Baquerizo Moreno 
+keine 
+San Juan Bautista 
+Vila dos Remédios
+Port-aux-Français 
+Hadibu
+Lulu Town 
+keine Hauptstadt 
+Olonkinbyen
+Ceuta
+Melilla

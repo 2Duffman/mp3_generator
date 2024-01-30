@@ -1,0 +1,411 @@
+Afghanistan
+Ägypten
+Albanien
+Algerien
+Andorra
+Angola
+Antigua und Barbuda
+Äquatorialguinea
+Argentinien
+Armenien
+Aserbaidschan
+Äthiopien
+Australien
+Bahamas
+Bahrain
+Bangladesch
+Barbados
+Belgien
+Belize
+Benin
+Bhutan
+Bolivien
+Bosnien und Herzegowina
+Botswana 
+Brasilien
+Brunei
+Bulgarien
+Burkina Faso
+Burundi
+Chile
+Taiwan 
+China 
+Costa Rica
+Dänemark
+Deutschland
+Dominica
+Dominikanische Republik
+Dschibuti
+Ecuador
+Elfenbeinküste 
+El Salvador
+Eritrea
+Estland
+Fidschi
+Finnland
+Frankreich
+Gabun
+Gambia
+Georgien
+Ghana
+Grenada
+Griechenland
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Indien
+Indonesien
+Irak
+Iran
+Irland
+Island
+Israel
+Italien
+Jamaika
+Japan
+Jemen
+Jordanien
+Kambodscha
+Kamerun
+Kanada
+Kap Verde
+Kasachstan
+Katar
+Kenia
+Kirgisistan
+Kiribati
+Kolumbien
+Komoren
+Kongo
+Kongo
+Nordkorea 
+Südkorea 
+Kosovo
+Kroatien
+Kuba
+Kuwait
+Laos
+Lesotho
+Lettland
+Libanon
+Liberia
+Libyen
+Liechtenstein
+Litauen
+Luxemburg
+Madagaskar
+Malawi
+Malaysia
+Malediven
+Mali
+Malta
+Marokko
+Marshallinseln
+Mauretanien
+Mauritius
+Mazedonien
+Mexiko
+Mikronesien
+Moldau 
+Monaco
+Mongolei
+Montenegro
+Mosambik
+Myanmar 
+Namibia
+Nauru
+Nepal
+Neuseeland
+Nicaragua
+Niederlande
+Niger
+Nigeria
+Norwegen
+Oman
+Österreich
+Timor-Leste 
+Pakistan
+Palau
+Panama
+Papua-Neuguinea
+Paraguay
+Peru
+Philippinen
+Polen
+Portugal
+Ruanda
+Rumänien
+Russland
+Salomonen
+Sambia
+Samoa
+San Marino
+São Tomé und Príncipe
+Saudi-Arabien
+Schweden
+Schweiz
+Senegal
+Serbien
+Seychellen
+Sierra Leone
+Simbabwe
+Singapur
+Slowakei
+Slowenien
+Somalia
+Spanien
+Sri Lanka
+St. Kitts und Nevis
+St. Lucia
+St. Vincent und die Grenadinen
+Südafrika
+Sudan
+Suriname
+Eswatini 
+Syrien
+Tadschikistan
+Tansania
+Thailand
+Togo
+Tonga
+Trinidad und Tobago
+Tschad
+Tschechien
+Tunesien
+Türkei
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+Ungarn
+Uruguay
+Usbekistan
+Vanuatu
+Vatikanstadt
+Venezuela
+Vereinigte Arabische Emirate
+Vereinigtes Königreich Großbritannien
+Vereinigte Staaten von Amerika
+Vietnam
+Weißrussland 
+Zentralafrikanische Republik
+Zypern
+Aargau
+Ausserrhoden
+Innerrhoden
+Basel-Landschaft
+Basel-Stadt
+Bern
+Freiburg 
+Genf 
+Glarus
+Graubünden
+Jura
+Luzern
+Neuenburg 
+Nidwalden
+Obwalden
+Schaffhausen
+Schwyz
+Solothurn
+St. Gallen
+Tessin 
+Thurgau
+Uri
+Waadt 
+Wallis 
+Zug
+Zürich
+Alabama
+Alaska
+Arizona
+Arkansas
+Kalifornien
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+Baden-Württemberg
+Bayern
+Berlin
+Brandenburg
+Bremen
+Hamburg
+Hessen
+Mecklenburg-Vorpommern
+Niedersachsen
+Nordrhein-Westfalen
+Rheinland-Pfalz
+Saarland
+Sachsen
+Sachsen-Anhalt
+Schleswig-Holstein
+Thüringen
+Burgenland
+Kärnten
+Niederösterreich
+Oberösterreich
+Salzburg
+Steiermark
+Tirol
+Vorarlberg
+Wien
+Demokratische Arabische Republik Sahara
+Saint-Martin
+Saint-Barthélemy 
+Wallis und Futuna
+Französisch-Guyana
+Guadeloupe
+Martinique
+La Réunion
+Mayotte
+Saint-Pierre und Miquelon
+Französisch-Polynesien
+Neukaledonien
+Südgeorgien und die Südlichen Sandwichinseln
+Anguilla
+Bermuda
+Britische Jungferninseln
+Falklandinseln
+Gibraltar
+Kaimaninseln 
+Montserrat
+Pitcairninseln
+St. Helena, Ascension und Tristan da Cunha
+Turks- und Caicosinseln
+Jersey 
+Guernsey 
+Isle of Man
+Puerto Rico
+Amerikanische Jungferninseln
+Guam
+Nördliche Marianen
+Amerikanisch-Samoa
+Aruba
+Curaçao
+Sint Maarten
+Bonaire
+Sint Eustatius
+Saba
+Norfolkinsel 
+Western Australia
+Queensland
+South Australia
+New South Wales
+Tasmanien
+Victoria
+Australian Capital Territory
+Northern Territory
+Weihnachtsinsel 
+Kokosinseln/Keelinginseln 
+Azoren
+Madeira
+Kanarische Inseln
+Tokelau
+Cookinseln
+Niue
+Grönland
+Färöer
+Spitzbergen 
+Wales
+Schottland
+England
+Nordirland
+Südsudan
+Anhui 
+Fujian 
+Gansu 
+Guangdong 
+Guizhou 
+Hainan 
+Hebei 
+Heilongjiang 
+Henan 
+Hubei 
+Hunan 
+Jiangsu 
+Jiangxi 
+Jilin 
+Liaoning 
+Qinghai 
+Shaanxi 
+Shandong 
+Shanxi 
+Sichuan 
+Yunnan 
+Zhejiang 
+Guangxi 
+Innere Mongolei 
+Ningxia 
+Xinjiang 
+Tibet 
+Peking 
+Chongqing 
+Shanghai 
+Tianjin 
+Hongkong 
+Macao 
+Abchasien 
+Südossetien 
+Transnistrien 
+Bergkarabach 
+Türkische Republik Nordzypern 
+Somaliland 
+Palästina
+Antarktika
+Osterinsel 
+Galápagos-Inseln
+Chagos-Archipel 
+Juan-Fernández-Inseln
+Fernando de Noronha
+Kerguelen
+Sokotra
+Navassa
+Bouvetinsel
+Jan Mayen
+Ceuta
+Melilla
